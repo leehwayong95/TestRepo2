@@ -1,13 +1,13 @@
-def testMethod():
+def testMethod(data):
     print("HelloWorld!")
     print('-' * 3)
     print("HelloWorld!")
     print("HiThere!") # 이화용의 간지용 코드
-    if (true) 
-        print('')
+    if data == true: 
+        print('data is good')
 
 
-def test_method2(data):
+def testMethod2(data):
     df = pd.DataFrame(data)
     df2 = df + df
     return df2
