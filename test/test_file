@@ -2,3 +2,4 @@ def testMethod():
     print("HelloWorld!")
     print('-' * 3)
     print("HelloWorld!")
+    print("HiThere!") # 이화용의 간지용 코드
