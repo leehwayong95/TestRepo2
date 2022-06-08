@@ -3,3 +3,8 @@ def testMethod():
     print('-' * 3)
     print("HelloWorld!")
     print("HiThere!") # 이화용의 간지용 코드
+
+def test_method2(data):
+    df = pd.DataFrame(data)
+    df2 = df + df
+    return df2
