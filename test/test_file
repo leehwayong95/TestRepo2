@@ -7,6 +7,7 @@ def testMethod(data):
         print('성공')
     else:
         print('실패')
+    System.out.println("자바 최고");
 
 def testMethod2(data1, data2):
     df = pd.DataFrame(data)
