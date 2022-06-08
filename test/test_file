@@ -8,6 +8,7 @@ def testMethod(data):
     else:
         print('실패')
     System.out.println("자바 최고");
+    System.out.println("파이썬 타도");
 
 def testMethod2(data1, data2):
     df = pd.DataFrame(data)
