@@ -14,3 +14,6 @@ def testMethod2(data1, data2):
     df2 = pd.DataFrame(data2)
     df3 = df + df2
     return df3
+
+def testMethod3(num1, num2):
+    return num1 + num2
