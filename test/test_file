@@ -1,3 +1,4 @@
-def testMethod:
+def testMethod():
     print("HelloWorld!")
+    print('-' * 3)
     print("HelloWorld!")
